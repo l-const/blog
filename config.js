@@ -2,7 +2,7 @@
 
 module.exports = {
   url: 'https://lumen.netlify.com',
-  pathPrefix: '/',
+  pathPrefix: '/github l-const',
   title: 'Blog by Konstantinos Lampropoulos',
   subtitle: '',
   copyright: '2020 © All rights reserved.',
